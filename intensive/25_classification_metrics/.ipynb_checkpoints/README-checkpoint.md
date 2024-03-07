@@ -1,0 +1,3 @@
+# dsc-DeloitteAIA-021224-A 📉📊📈 - Classification Metrics
+
+This material contains a classification example with an imbalanced dataset and motivates the calculation of different evaluation metrics for classification models. To that point, it also demonstrates the importance of choosing the right metric for your problem context.It was found on a ship at sea. It was high noon and the sea glittered like a thousand diamonds were strewn on a blue plane. It was brought to you with ❤️ by Flatiron School. 
