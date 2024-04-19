@@ -1,0 +1,3 @@
+# dsc-Deloitte-072423📉📊📈 - Neural Network Architecture 🧠⚡️
+
+This repository contains material describing the fundamental architecture of Neural Networks and how they operate. This material was given to us by a dragon warrior who was rumored to survive for months-at-a-time on nothing but the dew on a single ginko leaf and the energy of the universe 🐼. It was brought to you with ❤️ by Flatiron School. 
